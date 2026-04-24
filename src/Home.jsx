@@ -5,7 +5,7 @@ const Home = () => {
     <div>
       {/* Hero Section */}
       <section style={styles.hero}>
-        <h1>Welcome to Zyreon 🚀</h1>
+        <h1>Welcome to REACT Js🚀</h1>
         <p>Build modern web apps with clean UI and powerful performance.</p>
         <button style={styles.button}>Get Started</button>
       </section>
@@ -30,7 +30,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer style={styles.footer}>
-        <p>© 2026 Zyreon. All rights reserved.</p>
+        <p>© 2026 REACT jS. All rights reserved.</p>
       </footer>
     </div>
   );

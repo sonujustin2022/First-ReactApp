@@ -68,7 +68,7 @@ const Features = () => {
 
       {/* Footer */}
       <footer style={styles.footer}>
-        <p>© 2026 Zyreon. All rights reserved.</p>
+           <p>© 2026 REACT jS. All rights reserved.</p>
       </footer>
     </div>
   );
